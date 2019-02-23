@@ -1,3 +1,16 @@
+Dear HackUTD attendees,
+
+This is the repo for the Create React App demo shown during the presention by Match (with some minor clean up).
+If you pull this repo down, remember to install your dependencies (`npm install`) before running `npm start`.
+With that in order, running `npm start` should boot the app up.
+
+If you have any questions, please feel free to reach out to me at david.espinoza@match.com.
+
+Below is the default text auto-generated for the README.md file that Create React App generates...
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
